@@ -1,4 +1,4 @@
-# 📊 Freelancer Data Cleaning & Standardization using SQL
+# 📊 Freelancer-Data-Cleaning-Standardization-using-SQL
 
 ## 📌 Project Overview
 This project focuses on cleaning and standardizing a raw freelancer dataset using SQL.  
