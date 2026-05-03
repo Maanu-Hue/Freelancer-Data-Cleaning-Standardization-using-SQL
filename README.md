@@ -77,9 +77,11 @@ A cleaned and standardized freelancer dataset ready for:
 ---
 
 ## 📁 Project Structure
-Freelancer-Data-Cleaning-and-Standardization-using-SQL/
+
+Freelancer-Data-Cleaning-Standardization-using-SQL/
 │
 ├── sqlproject.sql
+├── global_freelancers_raw.csv
 ├── README.md
 
 ---
