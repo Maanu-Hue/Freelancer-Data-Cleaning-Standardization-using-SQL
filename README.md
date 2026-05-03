@@ -6,6 +6,12 @@ The dataset contains inconsistent values, missing data, and unstructured formats
 
 ---
 
+## ❗ Problem Statement
+The dataset contains inconsistent formats, missing values, and unstructured data.  
+This makes analysis difficult and unreliable without proper cleaning.
+
+---
+
 ## 🎯 Objective
 To convert raw freelancer data into a structured format by:
 - Handling missing values
@@ -41,7 +47,7 @@ To convert raw freelancer data into a structured format by:
 - Cleaned names by removing titles and suffixes  
 - Converted primary skills into consistent format  
 - Cleaned hourly rate by removing symbols ($, USD)
-- Median hourly rate of freelancers   
+- Calculated median hourly rate of freelancers as **40 USD**
 - Handled missing age using mean imputation  
 - Filled missing years of experience using median 
 - Standardized boolean values (YES/NO/UNKNOWN)  
@@ -66,14 +72,6 @@ A cleaned and standardized freelancer dataset ready for:
 
 ![Output 4](https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/blob/main/Screenshot%202026-05-03%20141013.png)
 
-![Output 5](https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/blob/main/Screenshot%202026-05-03%20140737.png)
-
-![Output 6](https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/blob/main/Screenshot%202026-05-03%20140511.png)
-
-![Output 7](https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/blob/main/Screenshot%202026-05-03%20140235.png)
-
-![Output 8](https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/blob/main/Screenshot%202026-05-03%20140702.png)
-
 ---
 
 ## 📁 Project Structure
@@ -86,12 +84,11 @@ Freelancer-Data-Cleaning-Standardization-using-SQL/
 
 ---
 
-## 🚀 Key Learnings
+## ✨ Key Features
 - Data cleaning using SQL
-- Handling missing values using mean and median
-- Creating reusable SQL views
-- Data standardization techniques
-- Real-world dataset transformation
+- Missing value imputation (mean & median)
+- Data standardization
+- Use of views for modular transformation
 
 ---
 
