@@ -25,9 +25,13 @@ To convert raw freelancer data into a structured format by:
 
 ---
 
-## DataSet used
--<a href ="https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/commit/7ea4378907a6b39954f82a4fbd8bb849d4c506c8">Noisy Dataset</a> 
-<img width="1920" height="1020" alt="Screenshot 2026-05-03 140104.png" src="https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/commit/8bdb553502f30c6a0f89a7f17cf38a1db5e0340a" />
+## 📁 Dataset Used
+- [Noisy Dataset](https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/blob/main/global_freelancers_raw.csv)
+
+---
+
+## 🖼️ Noisy Data Preview
+![Noisy Preview](https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/blob/main/Screenshot%202026-05-03%20140104.png)
 
 ---
 
@@ -52,15 +56,23 @@ A cleaned and standardized freelancer dataset ready for:
 
 ---
 
-## 🖼 Output/Result 
- <img width="1920" height="1020" alt="Screenshot 2026-05-03 140925.png" src="https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/commit/8bdb553502f30c6a0f89a7f17cf38a1db5e0340a" />
- <img width="1920" height="1020" alt="Screenshot 2026-05-03 135930.png" src="https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/commit/8bdb553502f30c6a0f89a7f17cf38a1db5e0340a" />
- <img width="1920" height="1020" alt="Screenshot 2026-05-03 141044.png" src="https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/commit/8bdb553502f30c6a0f89a7f17cf38a1db5e0340a" />
- <img width="1920" height="1020" alt="Screenshot 2026-05-03 141013.png" src="https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/commit/8bdb553502f30c6a0f89a7f17cf38a1db5e0340a" />
- <img width="1920" height="1020" alt="Screenshot 2026-05-03 140737.png" src="https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/commit/8bdb553502f30c6a0f89a7f17cf38a1db5e0340a" />
- <img width="1920" height="1020" alt="Screenshot 2026-05-03 140511.png" src="https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/commit/8bdb553502f30c6a0f89a7f17cf38a1db5e0340a" />
- <img width="1920" height="1020" alt="Screenshot 2026-05-03 140235.png" src="https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/commit/8bdb553502f30c6a0f89a7f17cf38a1db5e0340a" />
- <img width="1920" height="1020" alt="Screenshot 2026-05-03 140702.png" src="https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/commit/8bdb553502f30c6a0f89a7f17cf38a1db5e0340a" />
+## 🖼️ Output / Results
+
+![Output 1](https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/blob/main/Screenshot%202026-05-03%20140925.png)
+
+![Output 2](https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/blob/main/Screenshot%202026-05-03%20135930.png)
+
+![Output 3](https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/blob/main/Screenshot%202026-05-03%20141044.png)
+
+![Output 4](https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/blob/main/Screenshot%202026-05-03%20141013.png)
+
+![Output 5](https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/blob/main/Screenshot%202026-05-03%20140737.png)
+
+![Output 6](https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/blob/main/Screenshot%202026-05-03%20140511.png)
+
+![Output 7](https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/blob/main/Screenshot%202026-05-03%20140235.png)
+
+![Output 8](https://github.com/Maanu-Hue/Freelancer-Data-Cleaning-Standardization-using-SQL/blob/main/Screenshot%202026-05-03%20140702.png)
 
 ---
 
